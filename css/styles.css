@@ -16955,7 +16955,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
   }
   .row-footer {
     display: flex;
-    gap: 0;
+    /* gap: 0; */
   }
   .row-footer .s1 {
     width: 25%;
@@ -16964,12 +16964,12 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
     /* border-right: 1px solid var(--line); */
   }
   .row-footer .s2 {
-    width: 42%;
+    width: 32%;
     padding: 60px 32px;
-    border-right: 1px solid var(--line);
+    /* border-right: 1px solid var(--line); */
   }
   .row-footer .s3 {
-    width: 25%;
+    width: 40%;
     display: flex;
     justify-content: space-between;
     padding: 60px 32px;
@@ -17912,7 +17912,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
     padding: 60px 74px 60px 80px;
   }
   .row-footer .s3 {
-    padding: 60px 80px;
+    /* padding: 60px 80px; */
     padding-right: 0;
   }
   .tf-main-success .box-progress-order {
