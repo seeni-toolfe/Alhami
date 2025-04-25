@@ -19286,6 +19286,11 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
   .banner-lookbook .lookbook-item.position3 {
     left: 24%;
   }
+  .logo-header-2,
+  .logo-header {
+    display: flex;
+    justify-content: left;
+  }
   .wg-testimonial-2 .text {
     font-size: 20px;
   }
@@ -19486,6 +19491,11 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
   .s-coming-soon .sub {
     font-size: 14px;
     line-height: 20px;
+  }
+  .logo-header-2,
+  .logo-header {
+    display: flex;
+    justify-content: left;
   }
 }
 
